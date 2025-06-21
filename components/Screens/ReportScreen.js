@@ -709,6 +709,7 @@ const styles = StyleSheet.create({
     justifyContent: "space-between",
     alignItems: "center",
     marginBottom: 6,
+    marginTop: 15,
   },
   heading: {
     fontSize: 28,
@@ -731,6 +732,7 @@ const styles = StyleSheet.create({
     shadowOpacity: 0.2,
     shadowRadius: 4,
     elevation: 3,
+    marginTop: 15,
   },
   phoneWarningContainer: {
     flexDirection: "row",

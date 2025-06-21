@@ -683,6 +683,7 @@ const styles = StyleSheet.create({
     justifyContent: "space-between",
     alignItems: "center",
     height: 50,
+    marginTop: 20,
   },
   locationButton: {
     flexDirection: "row",

@@ -524,6 +524,7 @@ const styles = StyleSheet.create({
     fontWeight: "600",
     color: COLORS.primary,
     marginBottom: 6,
+     marginTop: 15,
   },
   subtitle: {
     fontSize: 16,

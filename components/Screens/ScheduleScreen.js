@@ -617,6 +617,7 @@ const styles = StyleSheet.create({
     fontWeight: "600",
     color: COLORS.primary,
     marginBottom: 6,
+     marginTop: 15,
   },
   subtitle: {
     fontSize: 16,
@@ -634,6 +635,7 @@ const styles = StyleSheet.create({
     backgroundColor: COLORS.white,
     borderBottomWidth: 1,
     borderBottomColor: COLORS.secondary,
+    marginTop: 15,
   },
   calendarDay: {
     flex: 1,
@@ -774,6 +776,8 @@ const styles = StyleSheet.create({
     shadowOffset: { width: 0, height: 1 },
     shadowOpacity: 0.1,
     shadowRadius: 2,
+    marginTop: 15,
+    marginLeft:10,
   },
   upcomingSection: {
     padding: 20,

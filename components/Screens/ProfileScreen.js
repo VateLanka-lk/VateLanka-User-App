@@ -677,6 +677,7 @@ const styles = StyleSheet.create({
     backgroundColor: COLORS.white,
     borderBottomWidth: 0.5,
     borderBottomColor: COLORS.borderGray,
+    marginTop: 15,
   },
   backButton: {
     width: 32,
@@ -685,9 +686,10 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   headerTitle: {
-    fontSize: 16,
-    fontWeight: '600',
-    color: COLORS.black,
+     fontSize: 20,
+    fontWeight: "600",
+    color: COLORS.primary,
+    marginBottom: 6,
   },
   headerRight: {
     width: 32,
